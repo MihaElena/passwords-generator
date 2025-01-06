@@ -1,4 +1,4 @@
-This is a SOLO project I made using HTML, CSS and Javascript - it generates 2 passwords (15 characters each) everytime the user clicks the "Generate password" button. 
+This is a SOLO project I made using HTML, CSS and Javascript - it generates 2 passwords (15 characters each) everytime the user clicks the "Generate passwords" button. 
 
 
 ## About Scrimba
